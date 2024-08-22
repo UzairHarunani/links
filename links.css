@@ -1,5 +1,11 @@
 body{
   background-color: aquamarine;
+  color: rgb(0, 0, 124);
+}
+
+.first{
+  font-family: Algerian;
+  color: rgb(173, 0, 0);
 }
 
 .headin{
